@@ -1,5 +1,5 @@
 # Arquitetura CSS
-Curso sobre CSS parte da Formação Front-End da Alura.
+Curso sobre CSS que faz parte da Formação Front-End da Alura.
 
 Durante o curso aprendi sobre:
 
