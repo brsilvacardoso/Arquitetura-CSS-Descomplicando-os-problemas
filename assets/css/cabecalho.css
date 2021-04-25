@@ -3,8 +3,6 @@
     background: #f9f9f9;
     display: flex;
     justify-content: space-between;
-    padding-left: 2rem;
-    padding-right: 2rem;
 }
 
 @media screen and (min-width: 0) {
@@ -16,6 +14,7 @@
 
 @media screen and (min-width: 768px) {
     .cabecalho {
+        justify-content: space-between;
         padding: 0 5rem;
     }
 }
