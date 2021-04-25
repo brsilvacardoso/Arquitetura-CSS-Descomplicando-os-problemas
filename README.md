@@ -8,3 +8,4 @@ Durante o curso aprendi sobre:
 - Boas práticas e metodologias sobre CSS.
 - Deixar páginas de site responsivo.
 
+Link: https://brsilvacardoso.github.io/Arquitetura-CSS-Descomplicando-os-problemas/
